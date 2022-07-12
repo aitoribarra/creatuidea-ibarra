@@ -84,6 +84,8 @@ header {
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(2, 1fr);
     gap: 2rem;
+    max-width: 97%;
+    margin: 0 auto;
 }
 
 .box:nth-of-type(1) {
